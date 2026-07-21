@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0182-duplicate-emails) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
