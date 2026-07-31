@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0066-plus-one) |
 | [1260-shift-2d-grid](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -45,4 +46,8 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
