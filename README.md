@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -50,4 +51,17 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
