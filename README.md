@@ -26,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -82,4 +83,16 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
