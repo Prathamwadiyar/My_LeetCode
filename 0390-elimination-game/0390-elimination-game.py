@@ -12,5 +12,4 @@ class Solution:
             remaining //= 2
             step *= 2
             left_to_right = not left_to_right
-            
         return head
