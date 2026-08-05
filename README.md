@@ -70,6 +70,7 @@
 | [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Recursion
 |  |
 | ------- |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3310-remove-methods-from-project) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
