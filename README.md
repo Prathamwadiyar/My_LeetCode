@@ -43,11 +43,13 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0392-is-subsequence) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
