@@ -4,4 +4,4 @@ class Solution:
             return 1
             
         mask = (1 << n.bit_length()) - 1
-        return n ^ mask
+        return n ^ mask 
