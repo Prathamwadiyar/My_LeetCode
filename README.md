@@ -7,6 +7,7 @@
 | [0066-plus-one](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0877-stone-game](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
@@ -63,6 +64,7 @@
 | [0066-plus-one](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0066-plus-one) |
 | [0390-elimination-game](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0877-stone-game](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -118,6 +120,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Stack
 |  |
@@ -127,4 +130,20 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Ordered Set
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Randomized
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
