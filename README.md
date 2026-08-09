@@ -45,6 +45,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
