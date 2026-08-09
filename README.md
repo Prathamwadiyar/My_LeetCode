@@ -30,6 +30,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0392-is-subsequence) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -68,6 +69,7 @@
 | [0877-stone-game](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,4 +148,16 @@
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
