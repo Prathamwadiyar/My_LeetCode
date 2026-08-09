@@ -31,6 +31,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0696-count-binary-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0696-count-binary-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Graph Theory
 |  |
