@@ -9,6 +9,7 @@
 | [0496-next-greater-element-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0877-stone-game](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
 ## Matrix
@@ -68,6 +69,7 @@
 | [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0877-stone-game](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -77,6 +79,7 @@
 | [0392-is-subsequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -90,14 +93,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
@@ -126,6 +132,7 @@
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [1140-stone-game-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Stack
 |  |
