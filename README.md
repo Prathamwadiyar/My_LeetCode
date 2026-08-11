@@ -12,6 +12,7 @@
 | [1140-stone-game-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0496-next-greater-element-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
