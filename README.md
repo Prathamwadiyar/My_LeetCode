@@ -12,6 +12,7 @@
 | [1140-stone-game-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1260-shift-2d-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -99,6 +101,7 @@
 | [1140-stone-game-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1510-stone-game-iv) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
