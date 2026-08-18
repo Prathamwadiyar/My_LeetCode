@@ -13,6 +13,7 @@
 | [1260-shift-2d-grid](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1406-stone-game-iii) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -24,6 +25,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1260-shift-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
