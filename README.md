@@ -42,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0696-count-binary-substrings) |
@@ -95,6 +96,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0877-stone-game) |
@@ -195,6 +197,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -227,4 +230,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
