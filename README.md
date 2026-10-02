@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0066-plus-one) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -185,6 +186,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Reservoir Sampling
 |  |
