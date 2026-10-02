@@ -17,6 +17,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2540-minimum-common-value](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0496-next-greater-element-i) |
+| [2540-minimum-common-value](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -163,6 +165,7 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0696-count-binary-substrings) |
+| [2540-minimum-common-value](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph Theory
@@ -188,6 +191,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [2540-minimum-common-value](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2540-minimum-common-value) |
 ## Reservoir Sampling
 |  |
 | ------- |
