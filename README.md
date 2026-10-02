@@ -17,6 +17,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0496-next-greater-element-i) |
+| [2784-check-if-array-is-good](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2784-check-if-array-is-good](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
