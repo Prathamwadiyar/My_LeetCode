@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0696-count-binary-substrings) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0877-stone-game) |
@@ -181,6 +183,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -245,4 +248,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
