@@ -17,6 +17,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0389-find-the-difference) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -194,6 +196,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2540-minimum-common-value) |
 ## Reservoir Sampling
 |  |
@@ -217,6 +220,7 @@
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -249,4 +253,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prathamwadiyar/My_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
